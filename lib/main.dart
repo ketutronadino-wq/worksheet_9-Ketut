@@ -4,10 +4,10 @@ import 'package:provider/provider.dart';
 import 'providers/course_provider.dart';
 import 'repositories/course_repository.dart';
 import 'services/course_api_service.dart'; 
-import 'screens/courses_page.dart';
+import 'pages/courses_page.dart';
 import 'screens/favorites_page.dart';
-import 'screens/home_page.dart';
-import 'screens/profile_page.dart';
+import 'pages/home_page.dart';
+import 'pages/profile_page.dart';
 
 void main() {
   // INI ENDPOINT DARI DOSEN

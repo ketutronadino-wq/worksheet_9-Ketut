@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/course_provider.dart';
 import '../widgets/error_view.dart';
-import 'course_form_page.dart';
-import 'course_detail_page.dart';
+import '../screens/course_form_page.dart';
+import '../screens/course_detail_page.dart';
 import '../widgets/status_style.dart'; // Untuk banner
 
 class CoursesPage extends StatelessWidget {
